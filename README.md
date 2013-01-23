@@ -14,7 +14,7 @@ to small (think individual investigators with a few nights at NOAO)
 face substantial data distribution, backup, and preservation issues:  These
 operations are not inexpensive, and they involve uncontrolled costs
 into the future.  Here we propose (and implement, in a limited way) a
-fully distributed astronomical sharing system built on BitTorrent.
+fully distributed astronomical sharing system built on *BitTorrent*.
 Crucially we add to the ordinary chaos of torrents (with which we do not
 want to interfere) some participation conditions for registered, trusted users
 to maintain provenance for users with strong provenance demands.
